@@ -9,6 +9,7 @@ repo.Rproj
 **/Icon
 **/__pycache__
 **/.egg-info
+**/mimno-Mallet-*
 
 **/_HIDE
 **/hidden
@@ -31,4 +32,5 @@ lessons/*
 !lessons/M05*
 !lessons/M06*
 !lessons/M07*
+!lessons/M08*
 !lessons/M92*
